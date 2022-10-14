@@ -1,10 +1,9 @@
-<!--Nama : Nur Haslinda
-    NIM  : 21091397035 -->
+
 
 <!DOCTYPE html>
 <html lang="id">
 <head>
-    <link rel="stylesheet" type="text/css" href="prak4 no1.css"> 
+    <link rel="stylesheet" type="text/css" href="prak4_no1.css"> 
     <title>Praktikum 4</title>
 </head>
 <body>
