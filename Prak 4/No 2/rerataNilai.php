@@ -1,5 +1,4 @@
-<!--Nama : Nur Haslinda
-    NIM  : 21091397035-->
+
 
 <?php 
 
