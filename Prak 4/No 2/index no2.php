@@ -1,13 +1,11 @@
-<!--Nama : Nur Haslinda
-    NIM  : 21091397035-->
 
 <?php 
-    require_once 'prak4 no2.php';
+    require_once 'rerataNilai.php';
 ?>
 
 <html lang="id">
 <head>
-    <link rel="stylesheet" href="prak4 no2.css">
+    <link rel="stylesheet" href="style.css">
     <title>Praktikum 4</title>
 </head>
 <body>
