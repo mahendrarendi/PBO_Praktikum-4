@@ -1,8 +1,6 @@
-<!--Nama : Nur Haslinda
-    NIM  : 21091397035-->
 
 <?php
-    require_once 'prak4 no3.php';
+    require_once 'kecebong.php';
 ?>
 
 <html lang="id">
