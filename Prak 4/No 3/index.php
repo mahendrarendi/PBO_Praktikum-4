@@ -5,7 +5,7 @@
 
 <html lang="id">
 <head>
-    <link rel="stylesheet" type="text/css" href="prak4 no3.css">
+    <link rel="stylesheet" type="text/css" href="style.css">
     <title>Praktikum 4</title>
 </head>
 <body>
